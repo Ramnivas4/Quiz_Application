@@ -1,0 +1,34 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Quiz",
+            "request": "launch",
+            "mainClass": "quiz.app.Quiz",
+            "projectName": "QuizApp-master_afd2289b"
+        },
+        {
+            "type": "java",
+            "name": "Rules",
+            "request": "launch",
+            "mainClass": "quiz.app.Rules",
+            "projectName": "QuizApp-master_afd2289b"
+        },
+        {
+            "type": "java",
+            "name": "Login",
+            "request": "launch",
+            "mainClass": "quiz.app.Login",
+            "projectName": "QuizApp-master_afd2289b"
+        },
+        {
+            "type": "jdk",
+            "request": "launch",
+            "name": "Launch Java App"
+        }
+    ]
+}
